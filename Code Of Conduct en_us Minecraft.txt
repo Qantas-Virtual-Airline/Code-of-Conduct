@@ -59,3 +59,5 @@ USA: Adherence to COPPA (Children's Online Privacy Protection Act).
 ### ARTICLE X: INDEMNIFICATION & RATIFICATION
 10.1 Liability: QV is not responsible for any hardware damage or account loss on 3rd party platforms.
 10.2 Agreement: By joining any QV platform, you acknowledge you have read, understood, and agreed to this 10-article Code of Conduct.
+
+# https://raw.githubusercontent.com/Qantas-Virtual-Airline/Code-of-Conduct/refs/heads/main/COC%20MINECRAFT
