@@ -1,0 +1,61 @@
+# Code-of-Conduct-Minecraft
+
+## QANTAS VIRTUAL  CODE OF CONDUCT FOR MINECRAFT
+### ARTICLE I: LEGAL PREAMBLE & STATUS
+1.1 Non-Affiliation: Qantas Virtual (QV) is a non-commercial, hobbyist simulation organization. We are NOT affiliated with, endorsed by, or sponsored by Qantas Airways Limited. All trademarks and logos are used under "Fair Use" for educational and roleplay purposes.
+
+1.2 Scope: This document governs all interactions on the QV Minecraft Server, Discord, and associated platforms.
+
+1.3 Jurisdictional Compliance:
+
+Australia: Adherence to the Privacy Act 1988 and Australian Consumer Law.
+
+European Union: Compliance with GDPR regarding data portability and erasure.
+
+USA: Adherence to COPPA (Children's Online Privacy Protection Act).
+
+### ARTICLE II: PRIVACY & DATA PROTECTION (GDPR/APP)
+2.1 Data Collection: We collect Minecraft UUIDs, IP addresses (for security), and Discord IDs.
+2.2 Purpose: Data is used strictly for rank tracking, security (ban-evasion prevention), and safety auditing.
+2.3 Data Rights: Any member may request a "Data Audit" to see what information QV holds on them or request a "Permanent Wipe" upon exiting the VA.
+
+### ARTICLE III: CHILD SAFETY & SAFEGUARDING
+3.1 The "Golden Rule": QV hosts a diverse age range (13+). Adult members (18+) must maintain professional distance from minors.
+3.2 Solicitation: Any attempt by an adult to move a minor to a private, unmoderated chat for non-VA purposes will result in an immediate report to the Australian Centre to Counter Child Exploitation (ACCCE).
+3.3 PII Protection: Sharing real-world names, addresses, or school info is strictly prohibited.
+
+### ARTICLE IV: GENERAL CONDUCT & HARASSMENT
+4.1 Zero Tolerance: Harassment, Doxing, or Hate Speech regarding race, religion, gender, or orientation results in an immediate permanent blacklist.
+4.2 Cyber-Bullying: "Banter" is not an excuse for targeted toxicity. If a member is told to stop, they must stop immediately.
+4.3 Brand Protection: You represent Qantas Virtual. Trolling other groups or "Air Rage" in public servers while carrying the QV tag is a punishable offense.
+
+### ARTICLE V: VATSIM & ROBLOX INTEGRATION
+5.1 VATSIM Compliance: Pilots must follow the VATSIM Code of Conduct. Failure to follow ATC instructions or "Slewing" on the network brings disrepute to QV.
+5.2 Roblox Standards: In Roblox ATC24 environments, members must follow airport-specific rules and maintain professionalism during official events.
+5.3 Cross-Platform Discord: * VATSIM Discord: https://discord.gg/RFCxdrqVav
+
+## Roblox ATC24 Discord: https://discord.gg/WqtsN3U56m
+## VATSIM Discord: https://discord.gg/RFCxdrqVav
+
+### ARTICLE VI: MINECRAFT TECHNICAL LAWS
+6.1 Griefing & Theft: Any unauthorized modification of QV assets or stealing from community chests is "Malicious Sabotage."
+6.2 Hacking: Use of hacked clients (Wurst, Meteor, etc.) or X-Ray is a Tier 3 offense.
+6.3 Server Security: Attempting to bypass MineKeep's protection or "Lag-Machine" the server is a violation of the Computer Misuse Act.
+
+### ARTICLE VII: INTELLECTUAL PROPERTY
+7.1 Asset Ownership: All liveries, builds, and scripts developed for QV remain the property of the QV Development Team.
+7.2 Non-Leaking Policy: Sharing internal files or "Early Access" builds outside of QV platforms is strictly prohibited.
+
+### ARTICLE VIII: DISCIPLINARY DUE PROCESS
+8.1 Tier 1 (Warning): Minor infractions/First-time professionalism slips.
+8.2 Tier 2 (Suspension): Repeated offenses or moderate griefing.
+8.3 Tier 3 (Blacklist): Serious breaches (Hacking, Doxing, Safety violations).
+8.4 Appeals: Every member has the right to appeal a ban after 30 days via a formal "High Command Review."
+
+### ARTICLE IX: STAFF ETHICS
+9.1 Abuse of Power: Staff may not use "Admin" commands for personal gain or to settle personal disputes.
+9.2 Transparency: All bans must be logged with evidence (screenshots/logs) for High Command audit.
+
+### ARTICLE X: INDEMNIFICATION & RATIFICATION
+10.1 Liability: QV is not responsible for any hardware damage or account loss on 3rd party platforms.
+10.2 Agreement: By joining any QV platform, you acknowledge you have read, understood, and agreed to this 10-article Code of Conduct.
