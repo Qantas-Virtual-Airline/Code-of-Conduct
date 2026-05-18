@@ -29,12 +29,10 @@ USA: Adherence to COPPA (Children's Online Privacy Protection Act).
 4.2 Cyber-Bullying: "Banter" is not an excuse for targeted toxicity. If a member is told to stop, they must stop immediately.
 4.3 Brand Protection: You represent Qantas Virtual. Trolling other groups or "Air Rage" in public servers while carrying the QV tag is a punishable offense.
 
-### ARTICLE V: VATSIM & ROBLOX INTEGRATION
+### ARTICLE V: VATSIM INTEGRATION
 5.1 VATSIM Compliance: Pilots must follow the VATSIM Code of Conduct. Failure to follow ATC instructions or "Slewing" on the network brings disrepute to QV.
-5.2 Roblox Standards: In Roblox ATC24 environments, members must follow airport-specific rules and maintain professionalism during official events.
-5.3 Cross-Platform Discord: * VATSIM Discord: https://discord.gg/RFCxdrqVav
+5.2 Cross-Platform Discord: * VATSIM Discord: https://discord.gg/RFCxdrqVav
 
-## Roblox ATC24 Discord: https://discord.gg/WqtsN3U56m
 ## VATSIM Discord: https://discord.gg/RFCxdrqVav
 
 ### ARTICLE VI: MINECRAFT TECHNICAL LAWS
